@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="adbe5abb-216f-42bf-b70e-64fab0eb12fb" name="https://github.com/PeterMueckstein/OOP_MK2.git" url="https://github.com/PeterMueckstein/OOP_MK2.git">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+    </option>
+  </component>
+</project>
